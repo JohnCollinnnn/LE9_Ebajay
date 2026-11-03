@@ -1,0 +1,12 @@
+Student 1
+Name: John Collin Ebajay
+Age: 21
+Course: BSIT
+____________________
+
+Student 2
+Name: Czharieta Janelle Mata
+Age: 20
+Course: BS Nursing
+____________________
+
